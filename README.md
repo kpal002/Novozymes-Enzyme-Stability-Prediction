@@ -17,9 +17,9 @@ VPVNPEPDATSVENVALKTGSGDSQSDPIKADLEVKGQSALPFDVDCWAILCKGAPNVLQRVNEKTKNSNRDRSGANKGP
 
 Here is the amino acid distribution for the training set.
 
-<img src="Images/Amino_acid.png" width=80% height=50%>
+<img src="Images/Amino_acid.png" width=60% height=50%>
   
 
 The maximum length of the amino acid sequences in the training dataset is 2048 but majority of the length is below 1024
 
-<img src="Images/Seq_length.png" width=80% height=50%>
+<img src="Images/Seq_length.png" width=70% height=50%>
