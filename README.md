@@ -17,4 +17,8 @@ VPVNPEPDATSVENVALKTGSGDSQSDPIKADLEVKGQSALPFDVDCWAILCKGAPNVLQRVNEKTKNSNRDRSGANKGP
 
 Here is the amino acid distribution for the training set.
 
-![Alt text](Images/Amino_acid_count.png)
+![Alt text](Images/Amino_acid.png)
+
+The length of the amino acid sequences in the training dataset
+
+![Alt text](Images/Seq_length.png)
