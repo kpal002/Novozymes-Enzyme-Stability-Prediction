@@ -26,7 +26,7 @@ The maximum length of the amino acid sequences in the training dataset is 2048 b
 
 The target melting temperature indicates how stable is an enzyme variant. Higher melting temperature means the protein variant is more stable. 
 
-<img src="Images/tm_distribution.png" width=70% height=50%>
+<img src="Images/tm.png" width=70% height=50%>
 
 There seems to be a "normal" distribution with mean around ~50 and some spikes at 5, 10, 15, 20 and 25.
 
