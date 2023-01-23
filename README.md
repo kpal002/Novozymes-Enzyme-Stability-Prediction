@@ -30,3 +30,6 @@ The target melting temperature indicates how stable is an enzyme variant. Higher
 
 There seems to be a "normal" distribution with mean around ~50 and some spikes at 5, 10, 15, 20 and 25.
 
+The dataset also includes the 3 dimensional structure of the enzyme, as predicted by AlphaFold
+
+<img src="Images/3D.png" width=70% height=50%>
