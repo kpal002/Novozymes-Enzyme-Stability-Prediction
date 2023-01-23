@@ -17,4 +17,4 @@ VPVNPEPDATSVENVALKTGSGDSQSDPIKADLEVKGQSALPFDVDCWAILCKGAPNVLQRVNEKTKNSNRDRSGANKGP
 
 Here is the amino acid distribution for the training set.
 
-
+![Alt text](Images/Amino_acid_count.png)
